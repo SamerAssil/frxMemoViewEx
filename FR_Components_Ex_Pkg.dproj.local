@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.907,\\Mac\Home\Desktop\FR_Comp_test\Package1.dproj=\\Mac\Home\Desktop\FR_Comp_test\FR_Comp_Test_Pkg.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.214,=vcldb.dcp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.167,=fqb270.dcp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.620,=\\Mac\Home\Desktop\FR_Comp_test\frxComponents.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.933,=fs27.dcp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.870,=frx27.dcp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.941,=\\Mac\Home\Desktop\FR_Comp_test\img.bmp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.042,=vcl.dcp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.261,=dbrtl.dcp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.822,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Package1.dproj=\\Mac\Home\Desktop\FR_Comp_test\Package1.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.995,=vclx.dcp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.323,=vclwinx.dcp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.104,=vclimg.dcp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.370,=bindengine.dcp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.870,=rtl.dcp</Transaction>
+    <Transaction>2021/06/13 19:19:44.000.860,\\Mac\Home\Documents\FR_Comp_test\img.bmp=</Transaction>
+    <Transaction>2021/06/13 19:19:44.000.953,=\\Mac\Home\Documents\FR_Comp_test\frxMemoViewEx.png</Transaction>
+    <Transaction>2021/06/13 19:21:52.000.373,=\\Mac\Home\Documents\FR_Comp_test\frxMemoViewEx.bmp</Transaction>
+    <Transaction>2021/06/13 19:21:52.000.263,\\Mac\Home\Documents\FR_Comp_test\frxMemoViewEx.png=</Transaction>
+    <Transaction>2021/06/13 19:46:59.000.156,=\\Mac\Home\Documents\FR_Comp_test\FR_Comp_Test_PkgResource.rc</Transaction>
+    <Transaction>2021/06/13 19:50:19.000.730,\\Mac\Home\Documents\FR_Comp_test\FR_Comp_Test_PkgResource.rc=</Transaction>
+    <Transaction>2021/06/13 20:54:32.000.622,\\Mac\Home\Documents\FR_Components_Ex\FR_Comp_Test_Pkg.dproj=\\Mac\Home\Documents\FR_Components_Ex\FR_Components_Ex_Pkg.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
